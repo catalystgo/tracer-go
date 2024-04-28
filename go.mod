@@ -1,4 +1,4 @@
-module github.com/catalystgo/tracerok
+module github.com/catalystgo/tracer-go
 
 go 1.22.0
 

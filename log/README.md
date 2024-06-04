@@ -41,7 +41,7 @@ You can log messages at different levels using the following functions:
 
 Each log level has its own prefix and color:
 
-![Log Levels](img/log-color.png)
+![Log Levels](./../img/log-color.png)
 
 ## Examples 🚀
 

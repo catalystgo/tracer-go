@@ -1,4 +1,4 @@
-module github.com/catalystgo/xro-log
+module github.com/catalystgo/logger
 
 go 1.22.0
 

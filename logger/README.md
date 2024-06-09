@@ -5,7 +5,7 @@
 First, import the package in your Go file:
 
 ```go
-import "github.com/catalystgo/xro-log/logger"
+import "github.com/catalystgo/logger/logger"
 ```
 
 ## Setting Up the Logger 🛠️

@@ -44,7 +44,7 @@ func newZapCore(level zapcore.LevelEnabler, sink io.Writer) zapcore.Core {
 			FunctionKey:    "function  ",
 			StacktraceKey:  "stacktrace",
 			LineEnding:     zapcore.DefaultLineEnding,
-			EncodeLevel:    zapcore.LowercaseColorLevelEncoder,
+			EncodeLevel:    zapcore.LowercaseLevelEncoder,
 			EncodeTime:     zapcore.ISO8601TimeEncoder,
 			EncodeDuration: zapcore.SecondsDurationEncoder,
 			EncodeCaller:   zapcore.ShortCallerEncoder,
